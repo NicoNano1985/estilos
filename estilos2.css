@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.parrafosintro{ 
+        text-align: center;
+        text-decoration-style: solid;
+}
+header, section, footer {
+
+    width: 960px;
+    background-color: blue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+
+    height: 200px;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+    
+}
+
+.solotitulo{
+    text-align: center;
+    text-decoration: line-through;
+
+}
+
+
+#principal{
+    height: 500px;
+    background-color: chocolate;
+ 
+}
+
+#principal p{ 
+    text-align: right;
+    text-decoration-style: double;
+}
+
+#informacion {
+    height: 250px;
+    background-color: chartreuse;
+}
+
+#informacion p{
+
+    text-decoration-color: firebrick;
+}
+footer{
+    height: 150px;
+
+}
